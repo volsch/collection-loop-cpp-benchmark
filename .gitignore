@@ -1,0 +1,12 @@
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+CMakeFiles/
+build/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
